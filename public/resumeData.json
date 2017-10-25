@@ -1,0 +1,203 @@
+{
+  "main": {
+    "name":"Krzysztof Szymański",
+    "occupation":"Web developer, programmer and designer",
+    "description":"I design and program websites and web applications of all types. ",
+    "image":"profilepic.jpg",
+    "bio":"Cześć, Jestem 31 letnim 'poczatkującym' programistą. Po 6 latach spedzonych w korporacji finansowej zdecydowałem się aby wrócić do tego co lubię i co robiłem za dziecka-do programowania! Jest to moja pierwsza strona która stworzyłem dla siebie. Przez ostatnie kilka miesiecy współpracowałem z agencją ISKRZY gdzie szlifowałem swoje umiejętności. Wiecej o tym doświadczeniu można poczytać w sekcji Praca. Pamiętam czasy karty graficznej VOODOO2, serwerów republika.pl i wojen przegladarkowych i tym bardziej cieszę się gdy widzę jak bardzo cała technologia ruszyła do przodu. Chciałbym rozwijać się we środowisku JS dlatego ta strona została stworzona w REACTcie. Zapraszam do kontaktu ",
+    "email": "krzysiekszymanski@poczta.onet.pl",
+    "phone": "535-958-114",
+    "address":{
+      "street":"ul Kilińskiego",
+      "city":"Rybnik",
+      "state":"Śląsk",
+      "zip": "44-200"
+    },
+    "website": "http://www.techguywebsolutions.com",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/krzysiek.szymanski.58910",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/krzysztof-szyma%C5%84ski-b0264aa4/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/krzysiekszymanski",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/krzysiekwodz",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+           {
+        "school":"Coders LAb",
+        "degree":"Bootcamp - JavaScript Developer - React",
+        "graduated":"September 2017",
+        "description":"Kurs rozpoczyna się 4 września mam nadzieje że się dużo nauczę a wtedy będę mógł opisać czego się nauczyłem."
+      },
+      {
+        "school":"ALX",
+        "degree":"Bootcamp-backend",
+        "graduated":"June 2017",
+        "description":"Bootcam w którym na którym programowaliśmy 80 godzin zegarowych. Tematyka szkolenia to PHP, HTML, CSS, XML, projektowanie baz danych, programowanie obiektowe, Javascript oraz wstęp do AJAX. Stworzyliśmy 2 projekty m.in blog z własnym CMS oraz sklep internetowy. Nauczyłem się dobrych praktych takich jak DRY programowanie obiektowego SOLID. Wzorców MVC jak UML"
+      },
+      {
+        "school":"Uniwersytet Śląski",
+        "degree":"M.A. Degree in Sociology",
+        "graduated":"March 2009",
+        "description":"Ukończylem studia ze specjalnością Zarządzanie Zasobami ludzimi. Studia pozwoliły mi rozwinąć moje umiejętności miękkie i nauczyły mnie szybko przyswajać wiedzę."
+      }
+    ],
+    "work":[
+      {
+        "company":"ISKRZY",
+        "title":"Web developer - apprentice",
+        "years":"July 2017 - Present",
+        "description":"Przełożenie projektów z plików PSD na html. Generalnie dużo frontendu. Trzy projekty komercyjne ukończone w tym czasie. Możliwość potwierdzenia u właścicieli."
+      },
+      {
+        "company":"Bank Millennium",
+        "title":"Manager",
+        "years":"July 2011 - July 2017",
+        "description":"Moja pierwsza praca w Polsce gdzie rozpoczynałęm od stanowiska kasjera a skończyłem na pozycji kierownika placówki. Do moich zadań (na ostatniej pozycji) należało zarządzanie zespołem 4 osobowym. Wramach którego delegowałęm zadania, kontrolowałęm jak i dbałem o jak najwyższą jakość obsługi klienta gdzi m.in w 2016 rok zdobyłem nagrodę najlepszej placówki pod względem jakości mierzonej metoda tajemniczego klienta."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS (BOOTSRAP, ANIMATE AND OTHER FREMWORKS)",
+        "level":"65%"
+      },
+      {
+        "name":"PHP",
+        "level":"30%"
+      },
+      {
+        "name":"JS jQUERY",
+        "level":"45%"
+      },
+      {
+        "name":"REACT.JS",
+        "level":"20%"
+      }
+     
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coffee Cup",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustrator",
+        "tags":"Branding, Web Design",
+        "image":"coffee.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Console",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, Web Development",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Judah",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Farmer Boy",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"farmerboy.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Girl",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"girl.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Origami",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"origami.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Retrocam",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"retrocam.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"John Doe"
+      },
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"Steve Smith"
+      }
+    ]
+  }
+}
